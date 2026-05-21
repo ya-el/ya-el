@@ -20,11 +20,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-![Yas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ya-el&show_icons=true&theme=transparent)
-
-![Yas's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ya-el&show_icons=true&theme=transparent)
-
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
